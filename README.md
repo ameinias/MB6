@@ -1,4 +1,3 @@
-#*********************************************************************************
 
 #   Tiny Mystery Builder - gblekkenhorst
    http://blekkenhorst.ca
@@ -7,13 +6,13 @@
   This file last updated:
   v1.7 - Feb 2019 - Unity 2018.3
    
+   # Be Nice
   Please enjoy but do not sell or share the whole hit-and-caboodle. 
    You may publish games using this code, but please use your different art.
  
+#Description
 
-#******************************************************************************/
-
-Point and click engine in it's most simple, pure form, 
+Point and click engine in it's most simple, pure form, just point, just clicking. But also collecting inventory objects, and using them to trick doors to open, or dressers to give you a cactus.
 
 ![Screenshot](https://blekkenhorst.ca/WP/wp-content/uploads/2019/02/mysteryBuilder.png)
 
