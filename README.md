@@ -1,16 +1,16 @@
 #*********************************************************************************
-# 
+
 #   Tiny Mystery Builder - gblekkenhorst
-#   http://blekkenhorst.ca
-#   gillian@blekkenhorst.ca
-#  
-#  This file last updated:
-#  v1.7 - Feb 2019 - Unity 2018.3
-#   
-#  Please enjoy but do not sell or share the whole hit-and-caboodle. 
-#   You may publish games using this code, but please use your different art.
-#  
-#   
+   http://blekkenhorst.ca
+   gillian@blekkenhorst.ca
+  
+  This file last updated:
+  v1.7 - Feb 2019 - Unity 2018.3
+   
+  Please enjoy but do not sell or share the whole hit-and-caboodle. 
+   You may publish games using this code, but please use your different art.
+ 
+
 #******************************************************************************/
 
 Point and click engine in it's most simple, pure form, 
